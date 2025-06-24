@@ -6,3 +6,4 @@ streamlit
 pypdf
 tiktoken
 chromadb
+langchain-community
