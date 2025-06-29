@@ -62,9 +62,9 @@ openai_key = os.getenv("OPENAI_API_KEY")
 
 # ============ Hardcoded User Login System ============
 users = {
-    "manager": {"password": "manager123", "role": "Manager"},
-    "hr": {"password": "hr123", "role": "HR"},
-    "intern": {"password": "intern123", "role": "Intern"}
+    "manager": {"password": os.getenv("MANAGER_PASS"), "role": "Manager"},
+    "hr": {"password": os.getenv("HR_PASS"), "role": "HR"},
+    "intern": {"password": os.getenv("INTERN_PASS"), "role": "Intern"}
 }
 
 # Initialize session state if not already set
