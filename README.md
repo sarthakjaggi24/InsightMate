@@ -16,15 +16,13 @@ InsightMate is an intelligent enterprise-grade assistant that understands your i
 
 ## Tech Stack & Tools:-
 
-- **Category**	       **Stack Used**
-
-- Language	           Python 3.10+
-- LLM	               OpenAI GPT (via ChatOpenAI)
-- Frameworks	       LangChain, Streamlit
-- Search Engine	       FAISS Vector Store
-- Document Parsing	   PyMuPDF, Plaintext
-- Memory	           LangChain's ConversationBufferMemory
-- Utilities	           dotenv, tempfile, reportlab (PDF export)
+- Language ---> Python 3.10+
+- LLM ---> OpenAI GPT (via ChatOpenAI)
+- Frameworks ---> LangChain, Streamlit
+- Search Engine ---> FAISS Vector Store
+- Document Parsing ---> PyMuPDF, Plaintext
+- Memory ---> LangChain's ConversationBufferMemory
+- Utilities ---> dotenv, tempfile, reportlab (PDF export)
 
 ## Sample Use Case:-
 
