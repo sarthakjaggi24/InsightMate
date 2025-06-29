@@ -16,14 +16,15 @@ InsightMate is an intelligent enterprise-grade assistant that understands your i
 
 ## Tech Stack & Tools:-
 
-**Category**	     **Stack Used**
-Language	         Python 3.10+
-LLM	                 OpenAI GPT (via ChatOpenAI)
-Frameworks	         LangChain, Streamlit
-Search Engine	     FAISS Vector Store
-Document Parsing	 PyMuPDF, Plaintext
-Memory	             LangChain's ConversationBufferMemory
-Utilities	         dotenv, tempfile, reportlab (PDF export)
+- **Category**	       **Stack Used**
+
+- Language	           Python 3.10+
+- LLM	               OpenAI GPT (via ChatOpenAI)
+- Frameworks	       LangChain, Streamlit
+- Search Engine	       FAISS Vector Store
+- Document Parsing	   PyMuPDF, Plaintext
+- Memory	           LangChain's ConversationBufferMemory
+- Utilities	           dotenv, tempfile, reportlab (PDF export)
 
 ## Sample Use Case:-
 
@@ -34,6 +35,6 @@ You upload internal company files such as:
 
 Then, depending on your role, InsightMate answers differently:
 
-Manager can ask about project delays or client issues
-HR can ask about compliance or leave policy
-Intern can ask about meeting timelines or casual leave
+- Manager can ask about project delays or client issues
+- HR can ask about compliance or leave policy
+- Intern can ask about meeting timelines or casual leave
