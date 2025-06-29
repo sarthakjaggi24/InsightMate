@@ -1,21 +1,16 @@
-Subject: Project Phoenix Development Update  
-From: operations@company.com  
-To: project-phoenix@company.com  
-Date: June 18, 2025
+Subject: Weekly Project Status - AI-Based Chatbot Development
 
-Hi team,
+Dear Team,
 
-As discussed in our last meeting, Project Phoenix has officially moved into the **development phase**.  
-The model architecture has been approved and assigned to the engineering team.
+As of this week, the development of our AI-based chatbot is progressing as scheduled. The frontend integration is complete, and the backend API is currently under testing. We've achieved 70% of our sprint goals, and are on track for the planned demo next Friday.
 
-Please note the following action items:
-- Backend development will begin this week
-- API integration deadlines have been shared with the tech lead
-- Compliance documentation is still under internal review
+Pending tasks include:
+- Final LLM integration
+- Security audit
+- Deployment pipeline automation
 
-Also, a reminder to complete the sprint planning by **June 20**.  
-Feel free to reach out for any blockers or support needed.
+Team members are expected to update their individual task progress in the dashboard by Thursday EOD.
 
-Best regards,  
-**Nikita Sharma**  
-Operations Manager
+Best regards,
+Sarthak Jaggi
+Project Manager

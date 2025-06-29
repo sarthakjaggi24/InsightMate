@@ -1,0 +1,21 @@
+Manager Role – Sample Questions:
+
+- What is the current progress of the AI-based chatbot project?
+- Which tasks are still pending in this week's sprint?
+- When is the final demo of the project scheduled?
+- Are there any blockers or risks reported by the team?
+- How many sprint goals have we achieved so far?
+
+Intern Role – Sample Questions:
+
+- What are the tasks assigned to team members for this week?
+- When do I need to update my progress on the dashboard?
+- How many casual leaves can i take?
+
+HR Role – Sample Questions:
+
+- What is the maximum number of casual leaves allowed in a year?
+- Can employees carry forward unused leaves?
+- Is there any notice period required for long leaves?
+- How is sick leave policy different from casual leave?
+

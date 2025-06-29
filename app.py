@@ -272,9 +272,9 @@ if docs:
 
         # Role-based keyword filter
         allowed_keywords = {
-            "Manager": [],
-            "HR": ["compliance", "review", "policy", "documentation", "employee", "leave"],
-            "Intern": ["project", "status", "update", "milestone", "timeline", "meeting"]
+            "Manager": ["complaint", "resolution", "response", "customer", "escalation", "follow-up", "satisfaction"],
+            "HR": ["leave", "policy", "vacation", "casual", "employee", "benefit", "absence", "approval"],
+            "Intern": ["leave", "policy", "vacation", "casual", "employee", "benefit", "absence", "approval", "dashboard", "progress","meetings", "reviews"]
         }
 
         question_lower = question.lower()
